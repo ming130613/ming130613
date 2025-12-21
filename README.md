@@ -8,6 +8,6 @@
 
 ##### Languages I use
 
-![Python](https://img.shield.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <img width="100" height="100" alt="9081de52-0e5a-404a-af29-37fd816a7368" src="https://github.com/user-attachments/assets/35f72540-1db6-4ad0-8e29-806f51aafa44" />
