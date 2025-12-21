@@ -5,3 +5,6 @@
 **ming130613/ming130613** is a ✨ _special_ ✨ student
 
 ### 家でごろごろするのが好きなオタク。 -*
+
+
+<img width="512" height="512" alt="9081de52-0e5a-404a-af29-37fd816a7368" src="https://github.com/user-attachments/assets/35f72540-1db6-4ad0-8e29-806f51aafa44" />
