@@ -1,6 +1,7 @@
 ## 안녕하시와요🌼
 
-![github-header-image (3)](https://github.com/user-attachments/assets/6589ae6b-b51c-4779-8c1f-e134b81666b8)
+
+![github-header-image (3)](https://github.com/user-attachments/assets/786eb08c-77a4-4fb4-b2ae-176732f1ca34)
 
 **ming130613/ming130613** is a ✨ _special_ ✨ student
 
