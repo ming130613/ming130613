@@ -1,4 +1,4 @@
-## 밍조입네다.｡.:*☆
+## 밍밍이.｡.:*☆
 
 
 ![github-header-image (3)](https://github.com/user-attachments/assets/0238da97-9607-4f5c-8b97-f4d21feaa094)
