@@ -9,6 +9,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
+<img width="915" height="259" alt="스크린샷 2026-08-05 103205" src="https://github.com/user-attachments/assets/50abdd7f-7c46-41b2-b5cb-3f2cace96a16" />
 
 <img width="100" height="100" alt="스크린샷 2026-08-05 090559" src="https://github.com/user-attachments/assets/35a0787f-324b-43bd-8d50-98048840acd9" />
 <img width="100" height="100" alt="스크린샷 2026-08-05 091256" src="https://github.com/user-attachments/assets/f1661de1-7939-4ca3-9acb-c94b2d825d3d" />
